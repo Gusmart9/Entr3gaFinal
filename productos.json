@@ -1,0 +1,11 @@
+[
+    { "id": 1, "nombre": "Dragon Ball Z: Kakarot",  "precio": 12500, "stock": 10, "img": "img/DRAGONBALLZKAKAROT.jpg" },
+    { "id": 2, "nombre": "Assassin's Creed Valhalla",  "precio": 10500, "stock": 10, "img": "img/AssassinsCreedValhalla.jpg" },
+    { "id": 3, "nombre": "Dying Light 2", "precio": 5300, "stock": 10, "img": "img/DyingLight2.jpg" },
+    { "id": 4, "nombre": "Grand Theft Auto V", "precio": 6600, "stock": 10, "img": "img/GTAV.jpg.jpg" },
+    { "id": 5, "nombre": "Marvel's Avengers",  "precio": 3900, "stock": 10, "img": "img/MarvelsAvengers.jpg" },
+    { "id": 6, "nombre": "Resident Evil Village",  "precio": 6000, "stock": 10, "img": "img/ResidentEvilVillage.jpg" },
+    { "id": 7, "nombre": "The Last of Us", "precio": 10500, "stock": 10, "img": "img/TheLastUs.jpg" },
+    { "id": 8, "nombre": "TMNT: Shredder's Revenge",  "precio": 3300, "stock": 10, "img": "img/TMNTShredders.jpg" },
+    { "id": 9, "nombre": "God of War",  "precio": 9000, "stock": 10, "img": "img/GoW.webp" }
+]
